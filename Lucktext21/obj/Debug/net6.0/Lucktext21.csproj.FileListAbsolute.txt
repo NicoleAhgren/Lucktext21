@@ -1,0 +1,15 @@
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\obj\Debug\net6.0\Lucktext21.csproj.AssemblyReference.cache
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\obj\Debug\net6.0\Lucktext21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\obj\Debug\net6.0\Lucktext21.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\obj\Debug\net6.0\Lucktext21.AssemblyInfo.cs
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\obj\Debug\net6.0\Lucktext21.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\bin\Debug\net6.0\Lucktext21.exe
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\bin\Debug\net6.0\Lucktext21.deps.json
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\bin\Debug\net6.0\Lucktext21.runtimeconfig.json
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\bin\Debug\net6.0\Lucktext21.dll
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\bin\Debug\net6.0\Lucktext21.pdb
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\obj\Debug\net6.0\Lucktext21.dll
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\obj\Debug\net6.0\refint\Lucktext21.dll
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\obj\Debug\net6.0\Lucktext21.pdb
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\obj\Debug\net6.0\Lucktext21.genruntimeconfig.cache
+C:\Users\Nicole\Documents\Skola\Lucktext21\Lucktext21\obj\Debug\net6.0\ref\Lucktext21.dll
